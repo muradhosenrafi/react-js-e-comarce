@@ -33,6 +33,7 @@ app.use(
    origin: [
     "http://localhost:5173",
     "https://armane-shop.onrender.com"
+    "https://YOUR-ADMIN-PANEL.onrender.com"
   ],
     methods: ["GET", "POST", "DELETE", "PUT"],
     allowedHeaders: [
